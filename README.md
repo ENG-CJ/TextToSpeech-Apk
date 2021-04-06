@@ -1,1 +1,2 @@
-# TextToSpeech-Apk
+Requiremnts
+----‐--------
